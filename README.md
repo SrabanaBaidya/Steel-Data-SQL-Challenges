@@ -2,7 +2,8 @@
 Nothing can be more exciting than facing new SQL Challenges when you are a Data Analyst.
 
 ## Challenge-I: Steve's Car Showroom 🚗
-Challenge link : Click here
+Challenge link : [Click Here](https://mattsteel87.wixsite.com/datacoach/blank-page-1)
+
 
 INTRODUCTION
 
