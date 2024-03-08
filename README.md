@@ -7,7 +7,9 @@ Challenge link : Click here
 INTRODUCTION
 
 Steve runs a top-end car showroom but his data analyst has just quit and left him without his crucial insights.
-Can you analyse the following data to provide him with all the answers he requires?
+Now it's my responsibility to analyse the  data to provide him with all the answers he requires.
+
+Please go through my solutions & post your valueable feedbacks 😊
 
 TABLES
 
