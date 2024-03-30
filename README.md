@@ -54,9 +54,22 @@ Here are the tables we will be using
 ![Picture1-1](https://github.com/SrabanaBaidya/Steel-Data-SQL-Challenges/assets/153310253/f51af4fd-2b14-4ea0-a509-5a300f2883d7)
 
 
+# Steel-Data-SQL-Challenges
+Nothing can be more exciting than facing new SQL Challenges when you are a Data Analyst.
+
+## Challenge-IV: Finance Analysis 💰
+Challenge link : [Click Here](https://mattsteel87.wixsite.com/datacoach/customer-insights-copy)
 
 
-![Picture2](https://github.com/SrabanaBaidya/Steel-Data-SQL-Challenges/assets/153310253/7d9b7679-bcc0-4c7d-937c-3d84a8ce84a5)
+INTRODUCTION
 
+I;m a Finance Analyst working for 'The Big Bank'
+I have been tasked with finding out about my customers and their banking behaviour. Examine the accounts they hold and the type of transactions they make to develop greater insight into my customers.
 
-![Picture3](https://github.com/SrabanaBaidya/Steel-Data-SQL-Challenges/assets/153310253/06a69fea-3462-4121-8975-414b555a4aa4)
+Please go through my solutions & post your valueable feedbacks 😊
+
+TABLES
+
+Here are the tables we will be using
+
+![Picture1](https://github.com/SrabanaBaidya/Steel-Data-SQL-Challenges/assets/153310253/6e06c131-e25b-47ac-b8a3-162ecd0a3351)
