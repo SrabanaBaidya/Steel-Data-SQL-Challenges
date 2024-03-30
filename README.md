@@ -60,7 +60,7 @@ Challenge link : [Click Here](https://mattsteel87.wixsite.com/datacoach/customer
 
 INTRODUCTION
 
-I;m a Finance Analyst working for 'The Big Bank'
+I'm a Finance Analyst working for 'The Big Bank'
 I have been tasked with finding out about my customers and their banking behaviour. Examine the accounts they hold and the type of transactions they make to develop greater insight into my customers.
 
 Please go through my solutions & post your valueable feedbacks 😊
