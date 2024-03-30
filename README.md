@@ -54,9 +54,6 @@ Here are the tables we will be using
 ![Picture1-1](https://github.com/SrabanaBaidya/Steel-Data-SQL-Challenges/assets/153310253/f51af4fd-2b14-4ea0-a509-5a300f2883d7)
 
 
-# Steel-Data-SQL-Challenges
-Nothing can be more exciting than facing new SQL Challenges when you are a Data Analyst.
-
 ## Challenge-IV: Finance Analysis 💰
 Challenge link : [Click Here](https://mattsteel87.wixsite.com/datacoach/customer-insights-copy)
 
