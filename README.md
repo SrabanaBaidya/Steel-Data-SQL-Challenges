@@ -70,3 +70,22 @@ TABLES
 Here are the tables we will be using
 
 ![Picture1](https://github.com/SrabanaBaidya/Steel-Data-SQL-Challenges/assets/153310253/6e06c131-e25b-47ac-b8a3-162ecd0a3351)
+
+
+## Challenge-V: Pub Pricing Analysis 🍷
+
+Challenge link : [Click Here](https://mattsteel87.wixsite.com/datacoach/finance-analysis-copy)
+
+
+INTRODUCTION
+
+Here I am working as a Pricing Analyst working for a pub chain called 'Pubs "R" Us'
+I have been tasked with analysing the drinks prices and sales to gain a greater insight into how the pubs in my chain are performing.
+
+Please go through my solutions & post your valueable feedbacks 😊
+
+TABLES
+
+Here are the tables we will be using
+
+![tables](https://github.com/SrabanaBaidya/Steel-Data-SQL-Challenges/assets/153310253/6f2b0120-cbfd-466a-92a7-b99fef058576)
