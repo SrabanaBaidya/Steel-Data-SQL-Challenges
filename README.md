@@ -89,3 +89,23 @@ TABLES
 Here are the tables we will be using
 
 ![tables](https://github.com/SrabanaBaidya/Steel-Data-SQL-Challenges/assets/153310253/6f2b0120-cbfd-466a-92a7-b99fef058576)
+
+
+## Challenge-VI: Pub Pricing Analysis 👕
+
+Challenge link : [Click Here](https://mattsteel87.wixsite.com/datacoach/finance-analysis-copy)
+
+
+INTRODUCTION
+
+Here I am a Marketing Analyst.
+The 'Sustainable Clothing Co.' have been running several marketing campaigns and have asked I have to provide my insighst into whether they have been successful or not.Here I will Analyse the following data and answer the questions.
+
+Please go through my solutions & post your valueable feedbacks 😊
+
+TABLES
+
+Here are the tables we will be using
+
+![tables](https://github.com/SrabanaBaidya/Steel-Data-SQL-Challenges/assets/153310253/5a17b6ff-e21e-403a-b4b5-d00cc1866953)
+
