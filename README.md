@@ -91,7 +91,7 @@ Here are the tables we will be using
 ![tables](https://github.com/SrabanaBaidya/Steel-Data-SQL-Challenges/assets/153310253/6f2b0120-cbfd-466a-92a7-b99fef058576)
 
 
-## Challenge-VI: Pub Pricing Analysis 👕
+## Challenge-VI: Marketing Analysis 👕
 
 Challenge link : [Click Here](https://mattsteel87.wixsite.com/datacoach/finance-analysis-copy-copy)
 
