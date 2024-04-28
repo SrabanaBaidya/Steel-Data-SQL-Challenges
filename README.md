@@ -93,7 +93,7 @@ Here are the tables we will be using
 
 ## Challenge-VI: Pub Pricing Analysis 👕
 
-Challenge link : [Click Here](https://mattsteel87.wixsite.com/datacoach/finance-analysis-copy)
+Challenge link : [Click Here](https://mattsteel87.wixsite.com/datacoach/finance-analysis-copy-copy)
 
 
 INTRODUCTION
